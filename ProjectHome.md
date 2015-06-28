@@ -1,0 +1,1 @@
+H.264,a new coder standard, is an effective coding standard.With  the intensive computation of H.264, parallelization will be used to speedup the performance.OpenMP is a wonderful programming mode for shared memory multiprocess.
